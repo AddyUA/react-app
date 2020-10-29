@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Button, Card, Col, Container, Form, Row } from "react-bootstrap";
 
-import Logo from "../assets/demo_agency-dark.png";
+import Logo from "../assets/img/demo_agency-dark.png";
 
 export default class Login extends Component {
   render() {
